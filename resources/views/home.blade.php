@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Homepage</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum maxime animi nostrum soluta quod quo nemo omnis est exercitationem? Aut temporibus molestias quia neque obcaecati?</p>
 </body>
 </html>
